@@ -1,1 +1,1 @@
-# Individual-Project_2023-24
+# Vision + Audio Detection_2023-24
